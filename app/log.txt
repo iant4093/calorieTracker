@@ -1,0 +1,10 @@
+Date: 06/20/2023
+Calories: 100
+Protein: 10
+Carbs: 10
+Fat: 10
+Date: 06/20/2023
+Calories: 200
+Protein: 20
+Carbs: 20
+Fat: 20
